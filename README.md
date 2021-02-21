@@ -1,1 +1,1 @@
-# Tech Degree Project 1
+# Skill Projects // Projects from courses, tutorials or just skill trainings
